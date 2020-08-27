@@ -1,2 +1,2 @@
 # CLASS
-Proj__
+Proj__ Class
