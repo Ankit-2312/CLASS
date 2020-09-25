@@ -65,4 +65,5 @@
 	<br>
 	<center><a href="index.php">Login</a><br><br>Already Registered?</center>
 </body>
+	
 </html>
